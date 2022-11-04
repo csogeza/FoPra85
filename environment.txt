@@ -1,0 +1,12 @@
+astropy==5.1
+ipykernel==6.16.1
+ipython==8.5.0
+jupyter-client==7.4.3
+matplotlib==3.6.1
+matplotlib-inline==0.1.6
+notebook==6.5.1
+notebook-shim==0.2.0
+numpy==1.23.4
+pandas==1.5.1
+photutils==1.5.0
+scipy==1.9.3
