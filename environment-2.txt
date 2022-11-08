@@ -1,0 +1,13 @@
+astropy
+ipykernel
+ipython
+jupyter-client
+matplotlib
+matplotlib-inline
+notebook
+notebook-shim
+numpy
+pandas
+photutils
+scipy
+ccdproc
