@@ -1,0 +1,8 @@
+astropy
+matplotlib
+matplotlib-inline
+numpy
+pandas
+photutils
+scipy
+ccdproc
